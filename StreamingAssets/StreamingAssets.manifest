@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1147778236
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: artifactsui
+      Dependencies: {}
